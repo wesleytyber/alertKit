@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import ProductView
+import ProductKit
 
 public class Toast {
     
